@@ -20,9 +20,6 @@ Problem-2.java
 Problem-3.java
 Problem-4.java
 
-yaml
-Copy code
-
 ---
 
 ## ✔ Problem Descriptions
@@ -45,9 +42,6 @@ Inputs:
 Given a single integer `a`, generate a series like:
 a = 4 → 1, 3, 5, 7
 
-yaml
-Copy code
-
 ---
 
 ### **Problem 3 – Conditional Odd Number Series**
@@ -60,17 +54,12 @@ a = 6 → 1, 3, 5
 
 a = 5 → 1, 3, 5, 7, 9
 
-yaml
-Copy code
-
 ---
 
 ### **Problem 4 – Count Multiples in List**
 Given a list:
 [1,2,8,9,12,46,76,82,15,20,30]
 
-sql
-Copy code
 Count how many numbers are multiples of each number from **1 to 9**.
 
 Output format:
